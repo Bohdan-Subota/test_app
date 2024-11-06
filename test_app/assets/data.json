@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "username": "best_painter",
+      "category": "Painter"
+    },
+    {
+      "username": "no_1_car_mechanic",
+      "category": "Car Painter"
+    },
+    {
+      "username": "electrician",
+      "category": "Electrician"
+    }
+  ],
+  "categories": ["Painter", "Carpenter", "Car Painter", "Electrician"]
+}
